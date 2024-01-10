@@ -1,0 +1,64 @@
+Here are 30 programming questions that you can use to practice Python:
+
+1. **Hello World:** Write a program that prints "Hello, World!" to the console.
+
+2. **Even or Odd:** Write a program that takes an integer as input and prints whether it is even or odd.
+
+3. **Factorial:** Write a function to calculate the factorial of a given number.
+
+4. **Fibonacci Sequence:** Write a function to generate the Fibonacci sequence up to a specified number of terms.
+
+5. **Palindrome Check:** Write a function to check if a given string is a palindrome.
+
+6. **Reverse a String:** Write a function to reverse a given string.
+
+7. **List Comprehension:** Create a list of squares of numbers from 1 to 10 using list comprehension.
+
+8. **Find Maximum:** Write a function to find the maximum number in a list.
+
+9. **Sum of Digits:** Write a function that calculates the sum of the digits of a positive integer.
+
+10. **Prime Numbers:** Write a function to check if a given number is prime.
+
+11. **List Manipulation:** Write a program that removes duplicates from a list.
+
+12. **Count Words in a String:** Write a function that counts the number of words in a given string.
+
+13. **Dictionary Operations:** Create a dictionary and perform operations like adding, updating, and deleting items.
+
+14. **Find Minimum Element in a List:** Write a function to find the minimum element in a list.
+
+15. **Check Anagrams:** Write a function to check if two strings are anagrams.
+
+16. **Leap Year Check:** Write a function to check if a given year is a leap year.
+
+17. **Binary to Decimal:** Write a function to convert a binary number to decimal.
+
+18. **Reverse a List:** Write a function to reverse a list.
+
+19. **String Formatting:** Create a program that formats a string with variables.
+
+20. **Matrix Operations:** Write a program to perform matrix addition.
+
+21. **Search in List:** Write a function to search for an element in a list.
+
+22. **Remove Vowels:** Write a function to remove vowels from a string.
+
+23. **Bubble Sort:** Implement the Bubble Sort algorithm.
+
+24. **Check Substring:** Write a function to check if a string is a substring of another.
+
+25. **GCD (Greatest Common Divisor):** Write a function to find the GCD of two numbers.
+
+26. **Count Characters:** Write a function to count the occurrences of each character in a string.
+
+27. **Check Armstrong Number:** Write a function to check if a number is an Armstrong number.
+
+28. **Calculate PI:** Write a program to calculate the value of PI using the Monte Carlo method.
+
+29. **File Handling:** Read and write data to a file using Python.
+
+30. **Calculator:** Create a simple calculator program that can perform basic arithmetic operations.
+
+These questions cover a variety of Python programming concepts and should provide a good range of practice. 
+Feel free to modify or expand upon them as you see fit!
